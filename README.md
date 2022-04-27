@@ -37,7 +37,7 @@
 * [New York Times Subscription](https://nytimesineducation.com/access-nyt/)
 * [Wall Street Journal for Students](https://education.wsj.com/students/)
 
-
+<br>
 \* Free trial
 
 &dagger; Only available if your college/university subscribes to the service (most if not all will provide access to this or an alternative)
