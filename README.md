@@ -2,14 +2,14 @@
 
 ## Programming Software
 * [GitHub Student Developer Pack](https://education.github.com/pack) (A.K.A. the absolute motherload)
-    * Includes, but is not limited to:
+    * Includes:
+        * [GitHub Pro](https://education.github.com/students)
         * [Bootstrap Studio](https://bootstrapstudio.io/)
         * [Dashlane Password Manager](https://www.dashlane.com/)*
         * [Canva](https://www.canva.com/)
         * [Microsoft Azure](https://azure.microsoft.com/en-us/)
-        * [GitHub Pro](https://education.github.com/students)
         * And plenty more...
-* [Visual Studio Enterprise](https://visualstudio.microsoft.com/students/)&dagger;
+* [Visual Studio Enterprise Edition](https://visualstudio.microsoft.com/students/)&dagger;
 * [JetBrains IDEs](https://www.jetbrains.com/shop/eform/students)
 
 
@@ -29,13 +29,12 @@
 * [Notion for Education](https://www.notion.so/product/notion-for-education)
 * [Obsidian MD](https://obsidian.md/) (it's technically free for everyone, but that shouldn't stop me from promoting a great app)
 
-
-## Other
-* [Amazon Prime Student](https://www.amazon.com/Amazon-Student/b?node=668781011)*
-
 ## Newspapers
 * [New York Times Subscription](https://nytimesineducation.com/access-nyt/)
 * [Wall Street Journal for Students](https://education.wsj.com/students/)
+
+## Misc
+* [Amazon Prime Student](https://www.amazon.com/Amazon-Student/b?node=668781011)*
 
 <hr>
 \* Free trial
